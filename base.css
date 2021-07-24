@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+#homebody {
+    background-image: url(https://github.com/1535228/1535228.github.io/blob/main/46600031.jpg?raw=true;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1850px;
+    /* background-size: 100%; */
+    /* font-family: ; */
+    text-align: center;
+}
+
+#homeul {
+    padding-top: 20em;
+    padding-bottom: 15em;
+    list-style: none;
+}
+
+#textbody {
+    background-image: url(../img/56260018.jpg);
+    background-color: darkgray;    
+}
+
+/* #photobody {
+    background-color: rgb(207, 205, 205);
+    background: linear-gradient(white,crimson);
+    
+} */
+
+#photobutton {
+    background: linear-gradient(burlywood, fuchsia);
+}
+#photolink {
+    background-color: crimson;
+}
+
+
+.box-wrapper {
+    overflow: hidden;
+    /* padding: 4px; */
+}
+#box1 {
+    float: left;
+    width: 33%;
+    margin: 0 4px 4px 0;
+}
+#box2 {
+    float: left;
+    width: 33%;
+    margin: 0 4px 4px 0;
+}
+#box3 {
+    float: left;
+    width: 33%;
+    margin: 0 4px 4px 0;
+}
+
+#tattoobody {
+    background-color: rgb(207, 205, 205);
+    background: linear-gradient(white,darkgray);
+
+}
+
+a:hover {
+    background-color: aqua;
+    /* background-color: black; */
+}
+
+a:link {
+    /* color: blanchedalmond; */
+    color: black;
+}
+
+a:visited {
+    color: brown;
+    color: burlywood;
+    color: white;
+}
+
+#footer {
+    font-size: 0.5em;
+}
